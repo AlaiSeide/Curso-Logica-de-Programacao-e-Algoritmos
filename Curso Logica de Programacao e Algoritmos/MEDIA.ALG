@@ -1,4 +1,6 @@
 algoritmo "Media"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi
 var
    numero1: Inteiro
    Numero2: Inteiro
