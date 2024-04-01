@@ -1,8 +1,8 @@
 algoritmo "FuncoesAritmeticas"
 var
-   A: Inteiro
+   A: Real
 inicio
 
-      A <- Abs(-50)
+      A <- Sen(GraupRad(90))
       Escreva(A)
 fimalgoritmo
