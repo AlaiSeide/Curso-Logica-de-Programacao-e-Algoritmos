@@ -13,6 +13,6 @@ Inicio
    Escreva("Informe um angulo: ")
    Leia(angulo)
    s <- Sen(GraupRad(angulo))
-   Escreva("O seno do angulo de ", angulo , "é ", s)
+   Escreva("O Seno do angulo de ", angulo , " é ", s)
 
 Fimalgoritmo
