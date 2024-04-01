@@ -9,7 +9,7 @@ Inicio
       b <- 3
       c <- 5
 
-      Escreva(a <> b)
+      Escreva(1 = c % 2)
 
 
 Fimalgoritmo
