@@ -9,7 +9,11 @@ Var
    a, b, c: Real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   Escreva(verdadeiro e falso)
+// Seção de Comandos, procedimento, funções, operadores, etc...
+   a <- 2
+   b <- 3
+   c <- 5
+   
+   Escreva(nao((a=b) ou (c>=a)))
 
 Fimalgoritmo
