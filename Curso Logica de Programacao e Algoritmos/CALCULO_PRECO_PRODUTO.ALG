@@ -20,6 +20,7 @@ taxa_imposto <- taxa_imposto / 100
 desconto <- desconto / 100
 
 preco_final <- preco_base + (preco_base * taxa_imposto)
+
 preco_final <- preco_final - (preco_final * desconto)
 
 // Exibe o preço final
