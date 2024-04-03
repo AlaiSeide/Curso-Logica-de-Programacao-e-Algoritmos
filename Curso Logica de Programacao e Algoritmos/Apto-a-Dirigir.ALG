@@ -23,8 +23,8 @@ Inicio
          Escreval("-------------------------")
       senao
          Escreval("-------- STATUS --------")
-         Escreval("IDADE:   ", idade, "ANOS")
-         Escreval("INAPRO A TIRAR CARTEIRA")
+         Escreval("IDADE:   -", idade, "ANOS")
+         Escreval("INATRO A TIRAR CARTEIRA")
          Escreval("-------------------------")
       FimSe
       
